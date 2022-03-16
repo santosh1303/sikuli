@@ -1,0 +1,1 @@
+doubleClick (Pattern("ChromeShortcut.png").targetOffset(3,-25))
